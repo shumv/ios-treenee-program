@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DribbbleAPP/ViewController.swift"
+            timestampString = "497266970.873718"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DribbbleAPP.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DribbbleAPP.ViewController"
+                  moduleName = "DribbbleAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliyshumko/Documents/DribbbleAPP/DribbbleAPP/DribbbleAPP/ViewController.swift"
+                  timestampString = "497267814.156325"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DribbbleAPP.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DribbbleAPP.ViewController"
+                  moduleName = "DribbbleAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliyshumko/Documents/DribbbleAPP/DribbbleAPP/DribbbleAPP/ViewController.swift"
+                  timestampString = "497267814.158345"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DribbbleAPP.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;DribbbleAPP.ViewController&gt;"
+                  moduleName = "DribbbleAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliyshumko/Documents/DribbbleAPP/DribbbleAPP/DribbbleAPP/ViewController.swift"
+                  timestampString = "497267814.160405"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DribbbleAPP.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;DribbbleAPP.ViewController&gt;"
+                  moduleName = "DribbbleAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliyshumko/Documents/DribbbleAPP/DribbbleAPP/DribbbleAPP/ViewController.swift"
+                  timestampString = "497267814.162977"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DribbbleAPP/ViewController.swift"
+            timestampString = "497267696.121328"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DribbbleAPP.ViewController.__deallocating_deinit"
+                  moduleName = "DribbbleAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliyshumko/Documents/DribbbleAPP/DribbbleAPP/DribbbleAPP/ViewController.swift"
+                  timestampString = "497267814.16828"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DribbbleAPP.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DribbbleAPP.ViewController"
+                  moduleName = "DribbbleAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliyshumko/Documents/DribbbleAPP/DribbbleAPP/DribbbleAPP/ViewController.swift"
+                  timestampString = "497267814.173135"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DribbbleAPP.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;DribbbleAPP.ViewController&gt;"
+                  moduleName = "DribbbleAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliyshumko/Documents/DribbbleAPP/DribbbleAPP/DribbbleAPP/ViewController.swift"
+                  timestampString = "497267814.175492"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DribbbleAPP.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;DribbbleAPP.ViewController&gt;"
+                  moduleName = "DribbbleAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliyshumko/Documents/DribbbleAPP/DribbbleAPP/DribbbleAPP/ViewController.swift"
+                  timestampString = "497267814.177073"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DribbbleAPP/ViewController.swift"
+            timestampString = "497267696.614148"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DribbbleAPP.ViewController.__deallocating_deinit"
+                  moduleName = "DribbbleAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliyshumko/Documents/DribbbleAPP/DribbbleAPP/DribbbleAPP/ViewController.swift"
+                  timestampString = "497267814.180453"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DribbbleAPP.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DribbbleAPP.ViewController"
+                  moduleName = "DribbbleAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliyshumko/Documents/DribbbleAPP/DribbbleAPP/DribbbleAPP/ViewController.swift"
+                  timestampString = "497267814.181726"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DribbbleAPP.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;DribbbleAPP.ViewController&gt;"
+                  moduleName = "DribbbleAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliyshumko/Documents/DribbbleAPP/DribbbleAPP/DribbbleAPP/ViewController.swift"
+                  timestampString = "497267814.184292"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DribbbleAPP.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;DribbbleAPP.ViewController&gt;"
+                  moduleName = "DribbbleAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliyshumko/Documents/DribbbleAPP/DribbbleAPP/DribbbleAPP/ViewController.swift"
+                  timestampString = "497267814.185797"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

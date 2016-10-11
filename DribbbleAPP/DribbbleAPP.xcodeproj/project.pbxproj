@@ -1,0 +1,411 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3E7116D81DA30280005F0F72 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E7116D71DA30280005F0F72 /* AppDelegate.swift */; };
+		3E7116DA1DA30280005F0F72 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E7116D91DA30280005F0F72 /* ViewController.swift */; };
+		3E7116DD1DA30280005F0F72 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E7116DB1DA30280005F0F72 /* Main.storyboard */; };
+		3E7116E01DA30280005F0F72 /* DribbbleAPP.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3E7116DE1DA30280005F0F72 /* DribbbleAPP.xcdatamodeld */; };
+		3E7116E21DA30280005F0F72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E7116E11DA30280005F0F72 /* Assets.xcassets */; };
+		3E7116E51DA30280005F0F72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E7116E31DA30280005F0F72 /* LaunchScreen.storyboard */; };
+		3E7116ED1DA31B68005F0F72 /* logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3E7116EC1DA31B68005F0F72 /* logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif */; };
+		3E7116F11DA3274F005F0F72 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 3E7116F01DA3274F005F0F72 /* Podfile */; };
+		E2E7E435AED3AE848E2F795F /* Pods_DribbbleAPP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24B19508C8804AA5B6F6E2A6 /* Pods_DribbbleAPP.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		24B19508C8804AA5B6F6E2A6 /* Pods_DribbbleAPP.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DribbbleAPP.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3E7116D41DA30280005F0F72 /* DribbbleAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DribbbleAPP.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3E7116D71DA30280005F0F72 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3E7116D91DA30280005F0F72 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3E7116DC1DA30280005F0F72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3E7116DF1DA30280005F0F72 /* DribbbleAPP.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DribbbleAPP.xcdatamodel; sourceTree = "<group>"; };
+		3E7116E11DA30280005F0F72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3E7116E41DA30280005F0F72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3E7116E61DA30280005F0F72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E7116EC1DA31B68005F0F72 /* logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif"; path = "Assets.xcassets/AppIcon.appiconset/logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif"; sourceTree = "<group>"; };
+		3E7116F01DA3274F005F0F72 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		90D595D782A08ACE6B411537 /* Pods-DribbbleAPP.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DribbbleAPP.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DribbbleAPP/Pods-DribbbleAPP.debug.xcconfig"; sourceTree = "<group>"; };
+		E53D923C620CCD12C3081C61 /* Pods-DribbbleAPP.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DribbbleAPP.release.xcconfig"; path = "Pods/Target Support Files/Pods-DribbbleAPP/Pods-DribbbleAPP.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3E7116D11DA3027F005F0F72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2E7E435AED3AE848E2F795F /* Pods_DribbbleAPP.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3E7116CB1DA3027F005F0F72 = {
+			isa = PBXGroup;
+			children = (
+				3E7116F01DA3274F005F0F72 /* Podfile */,
+				3E7116D61DA30280005F0F72 /* DribbbleAPP */,
+				3E7116D51DA30280005F0F72 /* Products */,
+				53589B06239AAE1CC3CAE41F /* Pods */,
+				5AEF6B98C90CF0428629F92A /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		3E7116D51DA30280005F0F72 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3E7116D41DA30280005F0F72 /* DribbbleAPP.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3E7116D61DA30280005F0F72 /* DribbbleAPP */ = {
+			isa = PBXGroup;
+			children = (
+				3E7116EC1DA31B68005F0F72 /* logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif */,
+				3E7116D71DA30280005F0F72 /* AppDelegate.swift */,
+				3E7116D91DA30280005F0F72 /* ViewController.swift */,
+				3E7116DB1DA30280005F0F72 /* Main.storyboard */,
+				3E7116E11DA30280005F0F72 /* Assets.xcassets */,
+				3E7116E31DA30280005F0F72 /* LaunchScreen.storyboard */,
+				3E7116E61DA30280005F0F72 /* Info.plist */,
+				3E7116DE1DA30280005F0F72 /* DribbbleAPP.xcdatamodeld */,
+			);
+			path = DribbbleAPP;
+			sourceTree = "<group>";
+		};
+		53589B06239AAE1CC3CAE41F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				90D595D782A08ACE6B411537 /* Pods-DribbbleAPP.debug.xcconfig */,
+				E53D923C620CCD12C3081C61 /* Pods-DribbbleAPP.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		5AEF6B98C90CF0428629F92A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				24B19508C8804AA5B6F6E2A6 /* Pods_DribbbleAPP.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3E7116D31DA3027F005F0F72 /* DribbbleAPP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3E7116E91DA30280005F0F72 /* Build configuration list for PBXNativeTarget "DribbbleAPP" */;
+			buildPhases = (
+				5962505799A58160746C84E4 /* [CP] Check Pods Manifest.lock */,
+				3E7116D01DA3027F005F0F72 /* Sources */,
+				3E7116D11DA3027F005F0F72 /* Frameworks */,
+				3E7116D21DA3027F005F0F72 /* Resources */,
+				D1576EDAA6929FB13954F5CC /* [CP] Embed Pods Frameworks */,
+				250B90D916DFE697482FB528 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DribbbleAPP;
+			productName = DribbbleAPP;
+			productReference = 3E7116D41DA30280005F0F72 /* DribbbleAPP.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3E7116CC1DA3027F005F0F72 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "Виталий Шумко";
+				TargetAttributes = {
+					3E7116D31DA3027F005F0F72 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 9MBYUNG97G;
+						LastSwiftMigration = 0800;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 3E7116CF1DA3027F005F0F72 /* Build configuration list for PBXProject "DribbbleAPP" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3E7116CB1DA3027F005F0F72;
+			productRefGroup = 3E7116D51DA30280005F0F72 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3E7116D31DA3027F005F0F72 /* DribbbleAPP */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3E7116D21DA3027F005F0F72 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3E7116F11DA3274F005F0F72 /* Podfile in Resources */,
+				3E7116E51DA30280005F0F72 /* LaunchScreen.storyboard in Resources */,
+				3E7116E21DA30280005F0F72 /* Assets.xcassets in Resources */,
+				3E7116DD1DA30280005F0F72 /* Main.storyboard in Resources */,
+				3E7116ED1DA31B68005F0F72 /* logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		250B90D916DFE697482FB528 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DribbbleAPP/Pods-DribbbleAPP-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5962505799A58160746C84E4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D1576EDAA6929FB13954F5CC /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DribbbleAPP/Pods-DribbbleAPP-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3E7116D01DA3027F005F0F72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3E7116DA1DA30280005F0F72 /* ViewController.swift in Sources */,
+				3E7116E01DA30280005F0F72 /* DribbbleAPP.xcdatamodeld in Sources */,
+				3E7116D81DA30280005F0F72 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3E7116DB1DA30280005F0F72 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3E7116DC1DA30280005F0F72 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3E7116E31DA30280005F0F72 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3E7116E41DA30280005F0F72 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3E7116E71DA30280005F0F72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3E7116E81DA30280005F0F72 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3E7116EA1DA30280005F0F72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 90D595D782A08ACE6B411537 /* Pods-DribbbleAPP.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9MBYUNG97G;
+				INFOPLIST_FILE = DribbbleAPP/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Vitaliy-Shumko.DribbbleAPP";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		3E7116EB1DA30280005F0F72 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E53D923C620CCD12C3081C61 /* Pods-DribbbleAPP.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9MBYUNG97G;
+				INFOPLIST_FILE = DribbbleAPP/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Vitaliy-Shumko.DribbbleAPP";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3E7116CF1DA3027F005F0F72 /* Build configuration list for PBXProject "DribbbleAPP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3E7116E71DA30280005F0F72 /* Debug */,
+				3E7116E81DA30280005F0F72 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3E7116E91DA30280005F0F72 /* Build configuration list for PBXNativeTarget "DribbbleAPP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3E7116EA1DA30280005F0F72 /* Debug */,
+				3E7116EB1DA30280005F0F72 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		3E7116DE1DA30280005F0F72 /* DribbbleAPP.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				3E7116DF1DA30280005F0F72 /* DribbbleAPP.xcdatamodel */,
+			);
+			currentVersion = 3E7116DF1DA30280005F0F72 /* DribbbleAPP.xcdatamodel */;
+			path = DribbbleAPP.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 3E7116CC1DA3027F005F0F72 /* Project object */;
+}
