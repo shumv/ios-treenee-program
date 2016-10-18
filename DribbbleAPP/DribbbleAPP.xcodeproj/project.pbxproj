@@ -15,6 +15,7 @@
 		3E7116E51DA30280005F0F72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E7116E31DA30280005F0F72 /* LaunchScreen.storyboard */; };
 		3E7116ED1DA31B68005F0F72 /* logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3E7116EC1DA31B68005F0F72 /* logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif */; };
 		3E7116F11DA3274F005F0F72 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 3E7116F01DA3274F005F0F72 /* Podfile */; };
+		3EEA734D1DB57F230058C9D7 /* DribbbleAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEA734C1DB57F230058C9D7 /* DribbbleAPI.swift */; };
 		E2E7E435AED3AE848E2F795F /* Pods_DribbbleAPP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24B19508C8804AA5B6F6E2A6 /* Pods_DribbbleAPP.framework */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +31,7 @@
 		3E7116E61DA30280005F0F72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3E7116EC1DA31B68005F0F72 /* logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif"; path = "Assets.xcassets/AppIcon.appiconset/logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif"; sourceTree = "<group>"; };
 		3E7116F01DA3274F005F0F72 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		3EEA734C1DB57F230058C9D7 /* DribbbleAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DribbbleAPI.swift; sourceTree = "<group>"; };
 		90D595D782A08ACE6B411537 /* Pods-DribbbleAPP.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DribbbleAPP.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DribbbleAPP/Pods-DribbbleAPP.debug.xcconfig"; sourceTree = "<group>"; };
 		E53D923C620CCD12C3081C61 /* Pods-DribbbleAPP.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DribbbleAPP.release.xcconfig"; path = "Pods/Target Support Files/Pods-DribbbleAPP/Pods-DribbbleAPP.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -68,6 +70,7 @@
 		3E7116D61DA30280005F0F72 /* DribbbleAPP */ = {
 			isa = PBXGroup;
 			children = (
+				3EEA734E1DB57F3B0058C9D7 /* DribbbleAPI */,
 				3E7116EC1DA31B68005F0F72 /* logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif */,
 				3E7116D71DA30280005F0F72 /* AppDelegate.swift */,
 				3E7116D91DA30280005F0F72 /* ViewController.swift */,
@@ -78,6 +81,14 @@
 				3E7116DE1DA30280005F0F72 /* DribbbleAPP.xcdatamodeld */,
 			);
 			path = DribbbleAPP;
+			sourceTree = "<group>";
+		};
+		3EEA734E1DB57F3B0058C9D7 /* DribbbleAPI */ = {
+			isa = PBXGroup;
+			children = (
+				3EEA734C1DB57F230058C9D7 /* DribbbleAPI.swift */,
+			);
+			name = DribbbleAPI;
 			sourceTree = "<group>";
 		};
 		53589B06239AAE1CC3CAE41F /* Pods */ = {
@@ -224,6 +235,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EEA734D1DB57F230058C9D7 /* DribbbleAPI.swift in Sources */,
 				3E7116DA1DA30280005F0F72 /* ViewController.swift in Sources */,
 				3E7116E01DA30280005F0F72 /* DribbbleAPP.xcdatamodeld in Sources */,
 				3E7116D81DA30280005F0F72 /* AppDelegate.swift in Sources */,
